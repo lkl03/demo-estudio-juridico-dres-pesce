@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dres-pesce
-Demo web para Estudio Juridico Dres Pesce — diseñada por eterlab.
+# Estudio Juridico Dres Pesce
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
